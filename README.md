@@ -10,7 +10,7 @@ This project leverages machine learning to predict the time required for the tra
 ![image](https://github.com/Sonu4227/DataScience/assets/136752431/f9bafbb1-59ee-4f8c-81d1-c09dcf97737a)
 
 
-### Telecom_Company_Customer_retention_strategy
+### Telecom_Company_Customer_retention_strategy-https://github.com/Sonu4227/DataScience/blob/main/Telecom_Company_Customer_Retention_Model.ipynb
 Another exciting project! 
 Telecom Customer Churn Analysis and Recommendations
 This project delves into the trends and patterns associated with customer churn in a telecom company. By leveraging advanced analytics and machine learning, we analyze extensive customer data to identify key factors contributing to churn. Insights from this analysis allow the telecom company to proactively address issues and implement targeted retention strategies. Our project not only diagnoses the reasons behind customer exits but also provides actionable recommendations for reducing churn rates. Together, these insights empower the company to enhance customer satisfaction and loyalty, fostering long-term relationships in the dynamic telecom industry.
